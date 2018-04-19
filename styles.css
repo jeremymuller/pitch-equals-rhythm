@@ -1,0 +1,144 @@
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom:18px;
+	font-family:"Oswald", sans-serif;
+	font-weight:300;
+	line-height:1.62em;
+	letter-spacing:1px;
+}
+
+h1 {
+	font-size:36px;
+}
+
+h2 {
+    font-size:32px;
+    text-align: center;
+    width: 600px;
+}
+
+h3 {
+	font-size:24px;
+}
+
+h4 {
+	font-size:18px;
+}
+
+h5 {
+	font-size:16px;
+}
+
+h6 {
+	font-size:15px;
+}
+
+p {
+	color: #333;
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	line-height: 1.62em;
+    width: 600px;
+	text-align: justify;
+}
+
+div {
+    float: left;
+    font-family:"Open Sans", sans-serif;
+    /*text-align: center;*/
+}
+
+hr {
+    opacity: 0.1;
+    width: 600px;
+    float: left;
+}
+
+figcaption {
+    margin: 15px auto 0 0;
+	display: block;
+	font-size: small;
+	font-family:"Open Sans", sans-serif;
+    /*font-family: Arial;*/
+    color: #222222;
+	text-align: left;
+	width: 600px;
+}
+figure {
+    padding: 5px;
+	width: 600px;
+}
+
+img {
+    height: 184px;
+    margin-top: -1em;
+    margin-bottom: -1em;
+	text-align: center;
+}
+
+code {
+	background-color: #eee;
+	padding: 2px;
+    /*width: 100%;*/
+    text-align: center;
+}
+
+#resetDial {
+    float: none;
+}
+
+#rhythms {
+	/*height: 73px;*/
+	/*width: 538px;*/
+	height: 100px;
+	width: 550px;
+}
+
+#divider {
+    background-color: black;
+    width: 2px;
+}
+
+#display {
+    color:#333;
+    font-family: Arial;
+    font-size: 40px;
+    /*text-align: center;*/
+    float: none;
+    width: 600px;
+}
+
+#displayrhythm {
+    color:#333;
+    font-family: Arial;
+    font-size: 40px;
+    margin-right: 5px;
+}
+
+#M3_ji {
+	margin-left: 5px;
+}
+
+#rhythmratios {
+    float: none;
+}
+
+#ratios {
+    margin-top: 5px;
+}
+
+#tempo, #temponested, #multislider {
+        margin-left: 25px;
+}
+
+.blink {
+    width: 268px;
+    height: 50px;
+    background-color: #eee;
+    margin-left: 2px;
+}
+
+.mutes {
+	/*margin: 10px;*/
+	text-align: center;
+	width: 100px;
+}
